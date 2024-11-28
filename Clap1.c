@@ -2,8 +2,7 @@
 int main() {
 	int k ;
 	int b ;
-	scanf("%d",&k);
-	scanf("%d",&b);
+	scanf("%d" "%d",&k,&b);
 	if (k>b) {
 		printf("k greater than b");
 	}
